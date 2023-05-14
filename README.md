@@ -21,14 +21,3 @@ DVC (Data Version Control) is a tool that can be used in MLOps (Machine Learning
 Overall, DVC is a powerful tool that can help you manage data and models in your machine learning projects, making them more reproducible and easier to collaborate on.
 
 
-## Requirements
-
-To use this project, you will need to have the following installed on your system:
-
-* DVC
-* Git
-* Python 3.x
-* Pip
-
-
-
